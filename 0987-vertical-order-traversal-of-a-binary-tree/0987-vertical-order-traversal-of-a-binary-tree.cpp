@@ -11,31 +11,30 @@
  */
 class Solution {
 public:
-    vector<vector<int>> in;
+    vector<array<int,3>> in;
     void enterleft(TreeNode* root,int r, int c){
-        vector<int> left={root->val,r+1,c-1};
-        in.push_back(left);
+        in.push_back({root->val,r+1,c-1});
         if(root->left!=NULL) enterleft(root->left,r+1,c-1);
         if(root->right!=NULL) enterright(root->right,r+1,c-1);
     }
     void enterright(TreeNode* root, int r, int c){
-        vector<int> right={root->val, r+1, c+1};
-        in.push_back(right);
+        
+        in.push_back({root->val, r+1, c+1});
         if(root->left!=NULL) enterleft(root->left,r+1,c+1);
         if(root->right!=NULL) enterright(root->right,r+1,c+1);
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
+        vector<vector<int>> aaa;
+        if(root==NULL) return aaa;
         
-        if(root==NULL) return in;
-        vector<int> top={root->val,0,0};
-        in.push_back(top);
+        in.push_back({root->val,0,0});
         if(root->left!=NULL) enterleft(root->left,0,0);
         if(root->right!=NULL) enterright(root->right,0,0);
-        sort(in.begin(), in.end(), [](const vector<int>& a, const vector<int>& b) {
-        if (a[2] != b[2]) return a[2] < b[2]; 
-        if (a[1] != b[1]) return a[1] < b[1]; 
-        return a[0] < b[0];                     
-        });
+        sort(in.begin(), in.end(), [](const array<int,3>& a, const array<int,3>& b) {
+    if (a[2] != b[2]) return a[2] < b[2];   // col
+    if (a[1] != b[1]) return a[1] < b[1];   // row
+    return a[0] < b[0];                     // value
+});
         vector<vector<int>> ans;
         int a=in[0][2];
         vector<int> anss;
