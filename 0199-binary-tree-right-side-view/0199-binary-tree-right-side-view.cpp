@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
         vector<int> anss;
-        vector<vector<int>> ans;
+        
         if(root==NULL) return anss;
         queue<TreeNode*> q;
         q.push(root);
@@ -28,12 +28,10 @@ public:
                 level.push_back(node->val);
             }
             
-            ans.push_back(level);
+            anss.push_back(level[level.size()-1]);
         }
         
-        for(int i=0;i<ans.size();i++){
-            anss.push_back(ans[i][ans[i].size()-1]);
-        }
+        
         return anss;
     }
 };
