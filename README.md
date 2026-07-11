@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0213-house-robber-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
