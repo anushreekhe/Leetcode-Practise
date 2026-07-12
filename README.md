@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Math
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
