@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
