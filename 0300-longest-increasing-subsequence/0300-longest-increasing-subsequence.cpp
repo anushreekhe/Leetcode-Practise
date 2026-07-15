@@ -16,7 +16,7 @@ public:
         // vector<vector<int>> dp(nums.size(), vector<int>(nums.size()+1,-1));
         // return f(0,-1,nums,dp);
 
-        int maxi=1;
+     /**   int maxi=1;
         vector<int> dp(nums.size(),1);
         for(int i=0;i<nums.size();i++){
             for(int j=0;j<i;j++){
@@ -27,5 +27,19 @@ public:
             maxi=max(maxi,dp[i]);
         }
         return maxi;
+    */
+
+    // BINARY SEARCH APPROACH
+
+    vector<int> temp;
+    temp.push_back(nums[0]);
+    for(int i=1;i<nums.size();i++){
+        if(nums[i]>temp.back()) temp.push_back(nums[i]);
+        else{
+            int ind=lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+            temp[ind]=nums[i];
+        }
+    }
+    return temp.size();
     }
 };
