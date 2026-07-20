@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
