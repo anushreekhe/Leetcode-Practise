@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0132-palindrome-partitioning-ii) |
+| [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 ## Graph Theory
 |  |
