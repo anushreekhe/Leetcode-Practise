@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1672-richest-customer-wealth](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1672-richest-customer-wealth](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
