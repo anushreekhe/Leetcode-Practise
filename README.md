@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
