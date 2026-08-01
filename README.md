@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0542-01-matrix) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0518-coin-change-ii) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1106-parsing-a-boolean-expression) |
 ## Number Theory
 |  |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0547-number-of-provinces) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
