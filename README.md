@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1043-partition-array-for-maximum-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1092-shortest-common-supersequence) |
@@ -358,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
