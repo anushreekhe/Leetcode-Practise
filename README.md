@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0058-length-of-last-word) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
