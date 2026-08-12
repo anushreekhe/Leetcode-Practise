@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
