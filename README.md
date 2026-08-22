@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
