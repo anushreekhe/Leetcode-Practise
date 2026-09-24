@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0412-fizz-buzz](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
