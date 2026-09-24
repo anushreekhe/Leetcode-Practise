@@ -8,13 +8,14 @@ public:
         while(j<prices.size()){
             if(prices[j]>prices[i]){
                 d=prices[j]-prices[i];
-                if(minm<d) minm=d;
-                j++;
+                if(d>minm){
+                    minm=d;
+                }
             }
             else{
                 i=j;
-                j++;
             }
+            j++;
         }
         return minm;
     }
