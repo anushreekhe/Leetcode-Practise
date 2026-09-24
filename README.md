@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1106-parsing-a-boolean-expression) |
 ## Number Theory
@@ -383,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
