@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0072-edit-distance) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0063-unique-paths-ii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
