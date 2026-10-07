@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0312-burst-balloons) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
