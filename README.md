@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0115-distinct-subsequences) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0066-plus-one) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
