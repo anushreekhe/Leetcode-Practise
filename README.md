@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1106-parsing-a-boolean-expression) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
