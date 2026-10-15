@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3731-find-missing-elements) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anushreekhe/Leetcode-Practise/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -406,10 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Simulation
 |  |
 | ------- |
