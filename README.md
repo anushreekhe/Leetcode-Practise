@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0064-minimum-path-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0085-maximal-rectangle) |
