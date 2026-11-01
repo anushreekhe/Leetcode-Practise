@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0049-group-anagrams) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0455-assign-cookies) |
