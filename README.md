@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anushreekhe/Leetcode-Practise/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/anushreekhe/Leetcode-Practise/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anushreekhe/Leetcode-Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
